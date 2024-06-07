@@ -1,0 +1,1 @@
+export { default as messages } from './assets/index.js'
